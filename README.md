@@ -1,6 +1,5 @@
 ### Hi there I'm Jercho 👋
 
-#I am a young self tought coder from Colorado.
 
 - 🔭 I’m currently working on [PyPad](https://github.com/Jericho-Coder/pypad-ide)
 - 🌱 I’m currently learning HTML
