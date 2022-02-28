@@ -1,4 +1,4 @@
-### Hi there I'm Jercho 👋
+### Hi there I'm Jericho 👋
 
 
 - 🔭 I’m currently working on [PyPad](https://github.com/Jericho-Coder/pypad-ide)
